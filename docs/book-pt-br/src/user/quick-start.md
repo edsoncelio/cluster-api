@@ -1,6 +1,6 @@
-# Quick Start
+# Guia de Início Rápido
 
-In this tutorial we'll cover the basics of how to use Cluster API to create one or more Kubernetes clusters.
+Nesse tutorial vamos apresentar o básico de como usar o Cluster API para criar um ou mais clusters Kubernetes.
 
 <aside class="note warning">
 
