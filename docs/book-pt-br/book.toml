@@ -3,7 +3,7 @@ authors = ["The Cluster API Maintainers"]
 language = "pt-br"
 multilingual = false
 src = "src"
-title = "O Livro do Cluster API"
+title = "O Livro do Projeto Cluster API"
 
 [output.html]
 curly-quotes = true
