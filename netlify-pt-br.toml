@@ -1,7 +1,7 @@
 # Netlify build instructions
 [build]
-    command = "make -C docs/pt-br/book build"
-    publish = "docs/pt-br/book"
+    command = "make -C docs/book-ptbr build"
+    publish = "docs/book-ptbr/book"
 
 [build.environment]
     GO_VERSION = "1.21"
