@@ -1,7 +1,7 @@
 # Summary
 
-[Introduction](./introduction.md)
-[Quick Start](./user/quick-start.md)
+[Introdução](./introduction.md)
+[Guia de Início Rápido](./user/quick-start.md)
 [Quick Start Operator](./user/quick-start-operator.md)
 [Concepts](./user/concepts.md)
 [Personas](./user/personas.md)
